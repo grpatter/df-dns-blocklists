@@ -10,17 +10,17 @@
 ! Syntax: AdBlock
 ! Number of entries: 13
 !
+||adsdk.microsoft.com^
+||api.cognitive.microsoft.com^
 ||browser.events.data.microsoft.com^
 ||browser.pipe.aria.microsoft.com^
+||browser.pipe.aria.microsoft.com^
+||browser.pipe.aris.microsoft.com^
 ||choice.microsoft.com.nsatc.net^
 ||corp.sts.microsoft.com^
+||eu-mobile.events.data.microsoft.com^
 ||events.data.microsoft.com^
+||tb.pipe.aria.microsoft.com^
 ||telemetry.microsoft.com^
 ||telemetry.urs.microsoft.com^
-||browser.pipe.aria.microsoft.com^
-||eu-mobile.events.data.microsoft.com^
-||tb.pipe.aria.microsoft.com^
-||api.cognitive.microsoft.com^
-||browser.pipe.aris.microsoft.com^
-||adsdk.microsoft.com^
 ||us-mobile.events.data.microsoft.com^

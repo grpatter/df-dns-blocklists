@@ -8,7 +8,7 @@
 ! Last modified: 17 Oct 2024 01:34 UTC
 ! Version: 2024.1017.01
 ! Syntax: AdBlock
-! Number of entries: 14
+! Number of entries: 55
 !
 ||adsdk.microsoft.com^
 ||api.cognitive.microsoft.com^
@@ -24,36 +24,36 @@
 ||telemetry.microsoft.com^
 ||telemetry.urs.microsoft.com^
 ||us-mobile.events.data.microsoft.com^
-||https://api.crowdstrike.com^
-||https://api.us-2.crowdstrike.com^
-||https://api.eu-1.crowdstrike.com^
-||https://api.laggar.gcw.crowdstrike.com^
-||https://github.com/CrowdStrike/falcon-scripts^
+||api.crowdstrike.com^
+||api.us-2.crowdstrike.com^
+||api.eu-1.crowdstrike.com^
+||api.laggar.gcw.crowdstrike.com^
+||github.com/CrowdStrike/falcon-scripts^
 
 ||ts01-b.cloudsink.net^
 ||lfodown01-b.cloudsink.net^
 ||lfoup01-b.cloudsink.net^
-||https://falcon.crowdstrike.com^
-||https://assets.falcon.crowdstrike.com^
-||https://assets-public.falcon.crowdstrike.com^
-||https://api.crowdstrike.com^
-||https://firehose.crowdstrike.com^
+||falcon.crowdstrike.com^
+||assets.falcon.crowdstrike.com^
+||assets-public.falcon.crowdstrike.com^
+||api.crowdstrike.com^
+||firehose.crowdstrike.com^
 ||ts01-gyr-maverick.cloudsink.net^
 ||lfodown01-gyr-maverick.cloudsink.net^
 ||lfoup01-gyr-maverick.cloudsink.net^
-||https://falcon.us-2.crowdstrike.com^
-||https://assets.falcon.us-2.crowdstrike.com^
-||https://assets-public.us-2.falcon.crowdstrike.com^
+||falcon.us-2.crowdstrike.com^
+||assets.falcon.us-2.crowdstrike.com^
+||assets-public.us-2.falcon.crowdstrike.com^
 ||api.us-2.crowdstrike.com^
-||https://firehose.us-2.crowdstrike.com^
-||https://ts01-laggar-gcw.cloudsink.net^
+||firehose.us-2.crowdstrike.com^
+||ts01-laggar-gcw.cloudsink.net^
 ||sensorproxy-laggar-g-524628337.us-gov-west-1.elb.amazonaws.com^
-||https://lfodown01-laggar-gcw.cloudsink.net^
+||lfodown01-laggar-gcw.cloudsink.net^
 ||ELB-Laggar-P-LFO-DOWNLOAD-1265997121.us-gov-west-1.elb.amazonaws.com^
-||https://falcon.laggar.gcw.crowdstrike.com^
+||falcon.laggar.gcw.crowdstrike.com^
 ||laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com^
 ||api.laggar.gcw.crowdstrike.com^
-||https://firehose.laggar.gcw.crowdstrike.com^
+||firehose.laggar.gcw.crowdstrike.com^
 ||falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com^
 ||ts01-us-gov-2.cloudsink.net^
 ||lfodown01-us-gov-2.cloudsink.net^
@@ -62,7 +62,7 @@
 ||ts01-lanner-lion.cloudsink.net^
 ||lfodown01-lanner-lion.cloudsink.net^
 ||lfoup01-lanner-lion.cloudsink.net^
-||https://assets.falcon.eu-1.crowdstrike.com^
-||https://assets-public.falcon.eu-1.crowdstrike.com^
+||assets.falcon.eu-1.crowdstrike.com^
+||assets-public.falcon.eu-1.crowdstrike.com^
 ||api.eu-1.crowdstrike.com^
-||https://firehose.eu-1.crowdstrike.com^
+||firehose.eu-1.crowdstrike.com^

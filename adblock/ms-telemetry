@@ -24,3 +24,8 @@
 ||telemetry.microsoft.com^
 ||telemetry.urs.microsoft.com^
 ||us-mobile.events.data.microsoft.com^
+||https://api.crowdstrike.com^
+||https://api.us-2.crowdstrike.com^
+||https://api.eu-1.crowdstrike.com^
+||https://api.laggar.gcw.crowdstrike.com^
+||https://github.com/CrowdStrike/falcon-scripts^

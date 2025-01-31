@@ -98,12 +98,12 @@
 ||imeswda-afd-secondary.manage.microsoft.com^
 ||imeswda-afd-hotfix.manage.microsoft.com^
 
-||https://intunemaape1.eus.attest.azure.net^
-||https://intunemaape2.eus2.attest.azure.net^
-||https://intunemaape3.cus.attest.azure.net^
-||https://intunemaape4.wus.attest.azure.net^
-||https://intunemaape5.scus.attest.azure.net^
-||https://intunemaape6.ncus.attest.azure.net^
+||intunemaape1.eus.attest.azure.net^
+||intunemaape2.eus2.attest.azure.net^
+||intunemaape3.cus.attest.azure.net^
+||intunemaape4.wus.attest.azure.net^
+||intunemaape5.scus.attest.azure.net^
+||intunemaape6.ncus.attest.azure.net^
 
 ||.dm.microsoft.com^
 ||.events.data.microsoft.com^

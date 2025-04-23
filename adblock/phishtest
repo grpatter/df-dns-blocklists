@@ -5,10 +5,10 @@
 ! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
 ! Issues: https://github.com/grpatter/df-dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Apr 2025 01:34 UTC
-! Version: 2025.0423.01
+! Last modified: 23 Apr 2025 02:34 UTC
+! Version: 2025.0423.02
 ! Syntax: AdBlock
-! Number of entries: 10
+! Number of entries: 29
 !
 
 !PHINSEC
@@ -22,3 +22,27 @@
 ||creditsafetyteam.com^
 ||autheticate.com^
 ||notificationhandler.com^
+
+!DEFENDIFY
+||amaznshipping.com^
+||apple-messenger.com^
+||defendify.com^
+||defendify.net^
+||diversitymattersmost.org^
+||egiftcard.zone^
+||getdropbox.net^
+||getpassword.help^
+||googlalerts.news^
+||linkedinvitations.com^
+||message.fail^
+||resetmypassword.link^
+||shipment-update.com^
+||slcknotifier.com^
+||ticktokapp.com^
+||us-gov.org^
+||vemnopayment.com^
+||zoomeetings.us^
+
+
+!PROOFPOINT (DF)
+||jira.techsupport-corp.com^

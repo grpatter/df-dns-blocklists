@@ -5,10 +5,10 @@
 ! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
 ! Issues: https://github.com/grpatter/df-dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Apr 2025 05:34 UTC
-! Version: 2025.0423.04
+! Last modified: 23 Apr 2025 06:34 UTC
+! Version: 2025.0423.05
 ! Syntax: AdBlock
-! Number of entries: 176
+! Number of entries: 174
 !
 
 !PHINSEC
@@ -50,12 +50,6 @@
 ||cloudsurveillance.net^
 
 !PROOFPOINT (DF)
-||jira.techsupport-corp.com^
-||techsupport-corp.com^
-||nespresso-es.com^
-||cyber-sale.net^
-||password-update.com^
-||entwurf-laden.de^
 ||4ooi.co^
 ||4ooi.com^
 ||4ooi.in^
@@ -82,14 +76,14 @@
 ||Committee4StrongLeadership.com^
 ||concur-s0lutions.com^
 ||contract-sign.online^
-||corpbenefitplan.com^
 ||corp-internal.co.uk^
 ||corp-internal.com^
 ||corp-internal.net^
-||corpinternal.us^
 ||corp-internal.us^
-||corpoutlook.com^
 ||corp-proxy.com^
+||corpbenefitplan.com^
+||corpinternal.us^
+||corpoutlook.com^
 ||creditmass.ru^
 ||cyber-sale.net^
 ||dcscanscation.com^
@@ -99,15 +93,17 @@
 ||donatesolutions.net^
 ||dropboxlink.com^
 ||dynssi.com^
+||e-servce.com^
 ||educationresource.site^
 ||ee77red.ru^
 ||egencia-online.com^
 ||electioninfo.online^
 ||electionsdecision.com^
 ||emailquarantine.com^
+||emailquarantine.com^
+||enegry.org^
 ||enegry.org^
 ||entwurf-laden.de^
-||e-servce.com^
 ||event-planer.net^
 ||exch01-corp.com^
 ||firstfedtrust.com^
@@ -122,20 +118,21 @@
 ||grnail.world^
 ||healthline.site^
 ||hpdocument.com^
-||InformedVoterLeague.com^
 ||info-week.net^
 ||info-week.us^
+||InformedVoterLeague.com^
 ||internalitsupport.com^
 ||investmentsecureportal.com^
 ||itnues.net^
+||jira.techsupport-corp.com^
 ||lesportsacxx53.com^
 ||link91.in^
 ||linkedincdn.com^
 ||loan-payments.com^
 ||localhostlocaldomain.com^
-||mailcenter-alert.com^
 ||mail-center-alert.com^
 ||mail-delivery-system.com^
+||mailcenter-alert.com^
 ||maildeliverysystem.net^
 ||maliciousfile.online^
 ||matchesonline.net^
@@ -145,6 +142,7 @@
 ||microsoftsql.net^
 ||myensurance.co^
 ||NationalCouncil4not-for-profits.com^
+||nespresso-es.com^
 ||netbenefits-access.com^
 ||office3889.com^
 ||olympicresults.online^
@@ -188,8 +186,8 @@
 ||travelresinfo.com^
 ||updamicrosoft.com^
 ||updatracking.com^
-||user-account.online^
 ||user-account-maintenance.com^
+||user-account.online^
 ||vobamobile.net^
 ||voicemailaccess.net^
 ||webfilteralert.com^

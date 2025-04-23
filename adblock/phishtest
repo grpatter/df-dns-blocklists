@@ -5,10 +5,10 @@
 ! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
 ! Issues: https://github.com/grpatter/df-dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Apr 2025 12:00 UTC
-! Version: 2025.0423.10
+! Last modified: 23 Apr 2025 12:59 UTC
+! Version: 2025.0423.11
 ! Syntax: AdBlock
-! Number of entries: 175
+! Number of entries: 171
 !
 
 !PHINSEC
@@ -45,7 +45,6 @@
 
 !BULLPHISH
 ||service-noreply.info^
-||Bpidtr.com^
 ||bpidtr.com^
 ||cloudsurveillance.net^
 
@@ -100,8 +99,6 @@
 ||electioninfo.online^
 ||electionsdecision.com^
 ||emailquarantine.com^
-||emailquarantine.com^
-||enegry.org^
 ||enegry.org^
 ||entwurf-laden.de^
 ||event-planer.net^

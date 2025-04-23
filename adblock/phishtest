@@ -1,0 +1,24 @@
+[Adblock Plus]
+! Title: DF Phish Test DNS Blocklist
+! Description: DF Specific - IYKYK
+! Homepage: https://github.com/grpatter/df-dns-blocklists
+! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
+! Issues: https://github.com/grpatter/df-dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 23 Apr 2025 01:34 UTC
+! Version: 2025.0423.01
+! Syntax: AdBlock
+! Number of entries: 10
+!
+
+!PHINSEC
+||.betterphish.com^
+||.shippingalerts.com^
+||.amazingdealz.net^
+||.berrysupply.net^
+||.coronacouncil.org^
+||.couponstash.net^
+||.intelligentbros.com^
+||.creditsafetyteam.com^
+||.autheticate.com^
+||.notificationhandler.com^

@@ -5,8 +5,8 @@
 ! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
 ! Issues: https://github.com/grpatter/df-dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Apr 2025 06:34 UTC
-! Version: 2025.0423.05
+! Last modified: 23 Apr 2025 07:34 UTC
+! Version: 2025.0423.06
 ! Syntax: AdBlock
 ! Number of entries: 174
 !
@@ -137,7 +137,7 @@
 ||maliciousfile.online^
 ||matchesonline.net^
 ||meeting-reminder.com^
-||metflix.us ^
+||metflix.us^
 ||micrasoft-office365.com^
 ||microsoftsql.net^
 ||myensurance.co^

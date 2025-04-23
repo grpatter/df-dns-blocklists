@@ -5,10 +5,10 @@
 ! License: https://github.com/grpatter/df-dns-blocklists/tree/main?tab=MIT-1-ov-file
 ! Issues: https://github.com/grpatter/df-dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Apr 2025 04:34 UTC
-! Version: 2025.0423.03
+! Last modified: 23 Apr 2025 05:34 UTC
+! Version: 2025.0423.04
 ! Syntax: AdBlock
-! Number of entries: 29
+! Number of entries: 176
 !
 
 !PHINSEC
@@ -48,7 +48,6 @@
 ||Bpidtr.com^
 ||bpidtr.com^
 ||cloudsurveillance.net^
-
 
 !PROOFPOINT (DF)
 ||jira.techsupport-corp.com^
